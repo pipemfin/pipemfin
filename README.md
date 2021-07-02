@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, my name is Artur 👋
+
+I am a novice data analyst. At the moment I am studying at School 21 (Kazan).
+
+Programming on the following languages: c, c++, python.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipemfin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pipemfin/pipemfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
