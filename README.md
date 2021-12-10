@@ -1,6 +1,6 @@
 ### Hello, my name is Artur 👋
 
-I am a novice data analyst. At the moment I am studying at School 21 (Kazan).
+At the moment I am studying at School 21 (Kazan).
 
 Programming on the following languages: c, c++, python.
 
